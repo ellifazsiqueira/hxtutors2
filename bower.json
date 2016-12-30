@@ -1,0 +1,26 @@
+{
+  "name": "hxtutors",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ellifaz Siqueira <ellifaz.elf@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ellifazsiqueira/hxtutors",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1",
+    "sass-flex-mixin": "^1.0.3",
+    "imagehover.css": "*",
+    "wow": "wowjs#^1.1.2"
+  }
+}
